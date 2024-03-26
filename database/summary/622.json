@@ -1,0 +1,128 @@
+[
+    {
+        "matID":"SiO2-1116",
+        "source":"jarvis",
+        "space group":"P6_422",
+        "formula":"SiO2",
+        "d14":14.3560561209,
+        "d_max":14.3560561209,
+        "d_min":14.3560561209
+    },
+    {
+        "matID":"WO3-1302",
+        "source":"oqmd",
+        "space group":"P6_322",
+        "formula":"WO3",
+        "d14":14.340527861,
+        "d_max":14.340527861,
+        "d_min":14.340527861
+    },
+    {
+        "matID":"AuF3-24",
+        "source":"jarvis",
+        "space group":"P6_122",
+        "formula":"AuF3",
+        "d14":2.5724707621,
+        "d_max":2.5724707621,
+        "d_min":2.5724707621
+    },
+    {
+        "matID":"RbSnIO6-1028",
+        "source":"jarvis",
+        "space group":"P6_322",
+        "formula":"RbSnIO6",
+        "d14":1.098352958,
+        "d_max":1.098352958,
+        "d_min":1.098352958
+    },
+    {
+        "matID":"LiAlSiO4-449",
+        "source":"jarvis",
+        "space group":"P6_222",
+        "formula":"LiAlSiO4",
+        "d14":0.7290073971,
+        "d_max":0.7290073971,
+        "d_min":0.7290073971
+    },
+    {
+        "matID":"SiO2-1117",
+        "source":"jarvis",
+        "space group":"P6_522",
+        "formula":"SiO2",
+        "d14":0.0403670863,
+        "d_max":0.0403670863,
+        "d_min":0.0403670863
+    },
+    {
+        "matID":"RbPbIO6-1014",
+        "source":"jarvis",
+        "space group":"P6_322",
+        "formula":"RbPbIO6",
+        "d14":-0.455812097,
+        "d_max":-0.455812097,
+        "d_min":-0.455812097
+    },
+    {
+        "matID":"CaSO4-161",
+        "source":"jarvis",
+        "space group":"P6_222",
+        "formula":"CaSO4",
+        "d14":-0.647918433,
+        "d_max":-0.647918433,
+        "d_min":-0.647918433
+    },
+    {
+        "matID":"LiAlSiO4-450",
+        "source":"jarvis",
+        "space group":"P6_422",
+        "formula":"LiAlSiO4",
+        "d14":-1.9275331043,
+        "d_max":-1.9275331043,
+        "d_min":-1.9275331043
+    },
+    {
+        "matID":"CaTa4O11-166",
+        "source":"jarvis",
+        "space group":"P6_322",
+        "formula":"CaTa4O11",
+        "d14":-2.9549709204,
+        "d_max":-2.9549709204,
+        "d_min":-2.9549709204
+    },
+    {
+        "matID":"TlSbO3-1283",
+        "source":"jarvis",
+        "space group":"P6_322",
+        "formula":"TlSbO3",
+        "d14":-2.9549873732,
+        "d_max":-2.9549873732,
+        "d_min":-2.9549873732
+    },
+    {
+        "matID":"NaHg2IO2-827",
+        "source":"jarvis",
+        "space group":"P6_222",
+        "formula":"NaHg2IO2",
+        "d14":-17.4702385077,
+        "d_max":-17.4702385077,
+        "d_min":-17.4702385077
+    },
+    {
+        "matID":"AlVO4-17",
+        "source":"oqmd",
+        "space group":"P6_422",
+        "formula":"AlVO4",
+        "d14":-24.8144673072,
+        "d_max":-24.8144673072,
+        "d_min":-24.8144673072
+    },
+    {
+        "matID":"AlPO4-15",
+        "source":"jarvis",
+        "space group":"P6_422",
+        "formula":"AlPO4",
+        "d14":-30.202806593,
+        "d_max":-30.202806593,
+        "d_min":-30.202806593
+    }
+]
